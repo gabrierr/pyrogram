@@ -20,7 +20,7 @@ import inspect
 from typing import Callable
 
 import pyrogram
-from pyrogram.filters import Filter
+from pyrogram.Filters import Filter
 from pyrogram.types import Update
 
 
